@@ -2,12 +2,12 @@
   "users": [
     {
       "id": 4,
-      "first_name": "Le",
-      "last_name": "Corbusier",
+      "first_name": "John",
+      "last_name": "Doe",
       "email": "gcahen3@fema.gov",
       "status": true,
       "photo": "https://robohash.org/attemporeaut.png?size=50x50&set=set1",
-      "role": "Sales",
+      "role": "Placeholder",
       "last_login": "7/23/2022"
     },
     {
@@ -1009,6 +1009,26 @@
       "last_login": "2023-01-08T23:18:47Z",
       "photo": "https://avataaars.io/?accessoriesType=Wayfarers&avatarStyle=Circle&clotheColor=Blue02&clotheType=CollarSweater&eyeType=Dizzy&eyebrowType=UnibrowNatural&facialHairColor=Platinum&facialHairType=Blank&hairColor=BlondeGolden&hatColor=Heather&mouthType=ScreamOpen&skinColor=Light&topType=LongHairBun",
       "id": 104
+    },
+    {
+      "first_name": "Rohan",
+      "last_name": "Krishnani",
+      "email": "rohankrishnani@gmail.com",
+      "status": "true",
+      "role": "MTC-1",
+      "last_login": "2023-01-31T00:18:44Z",
+      "photo": "https://avataaars.io/?accessoriesType=Prescription02&avatarStyle=Circle&clotheColor=PastelYellow&clotheType=Overall&eyeType=Side&eyebrowType=Angry&facialHairColor=Red&facialHairType=BeardMedium&hairColor=Platinum&hatColor=Red&mouthType=Eating&skinColor=Tanned&topType=ShortHairShortFlat",
+      "id": 105
+    },
+    {
+      "first_name": "Samay",
+      "last_name": "Raina",
+      "email": "samay@gmail.com",
+      "status": "true",
+      "role": "Comedian",
+      "last_login": "2023-01-31T00:23:21Z",
+      "photo": "https://avataaars.io/?accessoriesType=Kurt&avatarStyle=Circle&clotheColor=PastelYellow&clotheType=GraphicShirt&eyeType=Default&eyebrowType=SadConcerned&facialHairColor=BrownDark&facialHairType=MoustacheMagnum&hairColor=BrownDark&hatColor=PastelGreen&mouthType=Grimace&skinColor=Black&topType=LongHairFroBand",
+      "id": 106
     }
   ]
 }
